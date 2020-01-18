@@ -19,7 +19,13 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-helmet": "^5.0.15",
+    "gatsby-plugin-graphql-codegen": "^2.1.1",
+    "gatsby-plugin-typescript": "^2.1.26",
+    "prettier": "^1.19.1",
+    "typescript": "^3.7.5"
   },
   "keywords": [
     "gatsby"
